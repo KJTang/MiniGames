@@ -1,24 +1,24 @@
-#**º¿ÓÑ£¨HaoYou£©**
+#**åšå‹ï¼ˆHaoYouï¼‰**
 
-##ÏîÄ¿ÃèÊö
+##é¡¹ç›®æè¿°
 
-ÕâÊÇÒ»¿îÒÔÏñËØ·ç¸ñÎªÖ÷µÄĞİÏĞÓÎÏ·£¬ËüµÄÖ÷ÒªÓÎÍæ·½Ê½ÊÇÍ¨¹ıÉùÒôÓëËûÈËÁª»ú¶ÔÕ½£¬ÎÒÃÇµÄÄ¿µÄ
-²»ÊÇÈÃÈË¼òµ¥µØÍæÒ»¿îÓÎÏ·£¬¶øÊÇÍ¨¹ıÕâ¿îÓÎÏ·ÓëËûÈË½øĞĞ¸ü¼ÓÉîÈëµÄ½»Á÷£»
+è¿™æ˜¯ä¸€æ¬¾ä»¥åƒç´ é£æ ¼ä¸ºä¸»çš„ä¼‘é—²æ¸¸æˆï¼Œå®ƒçš„ä¸»è¦æ¸¸ç©æ–¹å¼æ˜¯é€šè¿‡å£°éŸ³ä¸ä»–äººè”æœºå¯¹æˆ˜ï¼Œæˆ‘ä»¬çš„ç›®çš„
+ä¸æ˜¯è®©äººç®€å•åœ°ç©ä¸€æ¬¾æ¸¸æˆï¼Œè€Œæ˜¯é€šè¿‡è¿™æ¬¾æ¸¸æˆä¸ä»–äººè¿›è¡Œæ›´åŠ æ·±å…¥çš„äº¤æµï¼›
 
-##ÍÅ¶Ó³ÉÔ±
-	* µËºÆ
-	* ÌÆ¿­½İ
-	* ÍòŞÈ
-	* ÕÅ²©Ô¶
+##å›¢é˜Ÿæˆå‘˜
+	* é‚“æµ©
+	* å”å‡¯æ·
+	* ä¸‡å¥•
+	* å¼ åšè¿œ
 	
-##²úÆ·Ô¤ÀÀ
-###¿ªÊ¼½çÃæ
-![start](https://github.com/KJTang/HaoYou/blob/master/screenshot/start.jpg)
-###º¿ÓÑÁĞ±í
-![friend](https://github.com/KJTang/HaoYou/blob/master/screenshot/friend.jpg)
-###PK½çÃæ0
-![pk-0](https://github.com/KJTang/HaoYou/blob/master/screenshot/pk-0.jpg)
-###PK½çÃæ1
-![pk-1](https://github.com/KJTang/HaoYou/blob/master/screenshot/pk-1.jpg)
-###Ê¤Àû½çÃæ
-![win](https://github.com/KJTang/HaoYou/blob/master/screenshot/win.jpg)
+##äº§å“é¢„è§ˆ
+###å¼€å§‹ç•Œé¢
+![start](screenshot/start.jpg)
+###åšå‹åˆ—è¡¨
+![friend](screenshot/friend.jpg)
+###PKç•Œé¢0
+![pk-0](screenshot/pk-0.jpg)
+###PKç•Œé¢1
+![pk-1](screenshot/pk-1.jpg)
+###èƒœåˆ©ç•Œé¢
+![win](screenshot/win.jpg)
