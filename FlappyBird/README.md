@@ -24,3 +24,8 @@ cocos new NewProj -p com.game.proj -l lua
 ```
 cocos run -p linux
 ```  
+
+### Screen Shot ###
+<img src="screenshot/1.png" width = "200" alt="1" align=center />
+<img src="screenshot/2.png" width = "200" alt="2" align=center />
+<img src="screenshot/3.png" width = "200" alt="3" align=center />
